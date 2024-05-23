@@ -110,12 +110,14 @@ const allGreaterThanZero = array.customEvery(function(element) {
 console.log(allGreaterThanZero);
 */
 //////////*13*/////////
+/*
 Array.prototype.customReduce = function (item) {
   let reduce;
   return this.reduce(item);
 };
 const newStr = ["banan", "salom"];
 console.log(newStr[1].reduce());
+*/
 //////////*14*/////////
 /*
 Array.prototype.customFindIndex = function (callback) {
